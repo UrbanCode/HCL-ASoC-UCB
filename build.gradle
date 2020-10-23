@@ -4,7 +4,7 @@
  * The Eclipse Public 1.0 License (http://www.eclipse.org/legal/epl-v10.html)
  */
 
-def pluginName="HCL-ASoC-UCD-open"
+def pluginName="HCL-ASoC-UCB-open"
 
 apply plugin: 'groovy'
 
